@@ -1,5 +1,5 @@
 import Pokemon from "./Pokemon.js";
-//szorgalmi összes Pokemon megjelenitése
+//szorgalmi összes Pokemon megjelenitése asszinkron hívással
 
 /* az osztály mindig kisbetű */
 let pok1=new Pokemon("Ditto","https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
